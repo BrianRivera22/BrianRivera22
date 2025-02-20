@@ -4,7 +4,7 @@
 
 - <b>File Permissions in Linux </b>
   - [Practicing Linux Commands & accessing file permissions](https://github.com/BrianRivera22/File-permissions-in-Linux/blob/main/README.md) 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Apply filters to SQL queries</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
