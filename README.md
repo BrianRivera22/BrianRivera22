@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>File Permissions in Linux </b>
-  - [Practicing Linux Commands & accessing file permissions]([https://docs.google.com/document/d/1HIAi2WLx6-mFswhSqTG9l1Rjfqtyx4W28a7KyySkDoY/edit?usp=sharing])
+  - [Practicing Linux Commands & accessing file permissions](https://github.com/BrianRivera22/File-permissions-in-Linux/blob/main/README.md) 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
