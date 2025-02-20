@@ -5,7 +5,7 @@
 - <b>File Permissions in Linux </b>
   - [Practicing Linux Commands & accessing file permissions](https://github.com/BrianRivera22/File-permissions-in-Linux/blob/main/README.md) 
 - <b>Apply filters to SQL queries</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Working with SQL queries](https://github.com/BrianRivera22/Apply-filters-to-SQL-queries/blob/main/README.md)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
