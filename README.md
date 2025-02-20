@@ -36,7 +36,7 @@
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/brianscottera
+[instagram]: https://www.instagram.com/brianscottera?igsh=NXIzNjVtdmczMXhs&utm_source=qr
 [linkedin]: https://linkedin.com/in/brianrivera22
 
 <!--
