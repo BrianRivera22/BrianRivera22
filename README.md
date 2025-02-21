@@ -7,9 +7,10 @@
 - <b>Linux </b>
   - [File Permissions in Linux](https://github.com/BrianRivera22/File-permissions-in-Linux/blob/main/README.md)
   - [Decrypt an encrypted message in Linux](https://github.com/BrianRivera22/Decrypt-an-encrypted-message/blob/main/README.md)
-  - [File Permissions in Linux](https://github.com/BrianRivera22/File-permissions-in-Linux/blob/main/README.md)   
+  - [Creating hash values in Linux](https://github.com/BrianRivera22/Create-hash-values/blob/main/README.md)   
 - <b>SQL </b>
   - [Apply filters to SQL queries](https://github.com/BrianRivera22/Apply-filters-to-SQL-queries/blob/main/README.md)
+
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
