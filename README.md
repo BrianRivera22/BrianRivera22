@@ -11,10 +11,13 @@
 - <b>SQL</b>
   - [Apply filters to SQL queries](https://github.com/BrianRivera22/Apply-filters-to-SQL-queries/blob/main/README.md)
 
-<h2>📺 YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+<h2> 🔭 I’m currently working on ...<h2>
+  
+<h3>⚡ Home Lab Projects</h3>
+  - Any Suggestions?
+<h3>📺 YouTube Videos</h3>
+  - Coming soon!
 
 
 <h2> 🤳 Connect with me:</h2>
