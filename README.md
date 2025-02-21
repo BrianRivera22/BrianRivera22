@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brian! <br/><a href="https://github.com/brianrivera22">Tech Support</a>, <a href="https://www.linkedin.com/in/brianrivera22/">Cybersecurity Enthusiast</a>, <a href="https://www.youtube.com/@brianscottera">YouTuber</a></h1>
+<h1>Hi, I'm Brian! <br/><a href="https://github.com/brianrivera22">Tech Support Professional</a>, <a href="https://www.linkedin.com/in/brianrivera22/">Cybersecurity Enthusiast</a>, <a href="https://www.youtube.com/@brianscottera">YouTuber</a></h1>
 
 <h2>👨‍💻 IT Projects:</h2>
 
