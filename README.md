@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Laptop Repair </b>
-  - [Changing an old MacBook Battery](https://github.com/BrianRivera22/File-permissions-in-Linux/blob/main/README.md)
+  - [Changing an old MacBook Battery](https://github.com/BrianRivera22/changing-macbook-pro-battery/blob/main/README.md)
  
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
