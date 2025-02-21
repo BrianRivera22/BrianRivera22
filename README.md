@@ -10,8 +10,7 @@
 - <b>Linux </b>
   - [File Permissions in Linux](https://github.com/BrianRivera22/File-permissions-in-Linux/blob/main/README.md)
   - [Decrypt an encrypted message in Linux](https://github.com/BrianRivera22/Decrypt-an-encrypted-message/blob/main/README.md)
-  - [Creating hash values in Linux](https://github.com/BrianRivera22/Create-hash-values/blob/main/README.md)
-  - [Creating hash values in Linux](https://github.com/BrianRivera22/Create-hash-values/blob/main/README.md)    
+  - [Creating hash values in Linux](https://github.com/BrianRivera22/Create-hash-values/blob/main/README.md)   
 - <b>SQL</b>
   - [Apply filters to SQL queries](https://github.com/BrianRivera22/Apply-filters-to-SQL-queries/blob/main/README.md)
 
