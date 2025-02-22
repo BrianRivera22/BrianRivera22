@@ -31,7 +31,7 @@
 
 [linkedin]: https://linkedin.com/in/brianrivera22
 [youtube]: https://www.youtube.com/@brianscottera
-[instagram]: https://www.instagram.com/brianscottera?igsh=NXIzNjVtdmczMXhs&utm_source=qr
+[instagram]: https://www.instagram.com/cyberwithbrian
 
 <!--
 **BrianRivera22/BrianRivera22** is a ✨ _special_ ✨ repository: its `README.md` (this file) appears on your Github profile!
