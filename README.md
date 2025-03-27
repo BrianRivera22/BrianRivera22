@@ -2,8 +2,15 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+
 - <b>Laptop Repair </b>
-  - [Changing an old MacBook Battery](https://github.com/BrianRivera22/changing-macbook-pro-battery/blob/main/README.md)
   - [Changing an old MacBook Battery](https://github.com/BrianRivera22/changing-macbook-pro-battery/blob/main/README.md)
  
 <h2>👨‍💻 Cyber Security Projects:</h2>
@@ -16,12 +23,10 @@
   - [Apply filters to SQL queries](https://github.com/BrianRivera22/Apply-filters-to-SQL-queries/blob/main/README.md)
 
 
-<h2> 🔭 I’m currently working on ...<h2>
-  
-<h3>⚡ Home Lab Projects</h3>
-  - Any Suggestions?
 <h3>📺 YouTube Videos</h3>
-  - Coming soon!
+
+<u>[My Journey: Starting over in Tech](https://youtu.be/UpeNVfCLA8k?si=k9kt1j8CCEZGIrtx)</u>
+  
 
 
 <h2> 🤳 Connect with me:</h2>
