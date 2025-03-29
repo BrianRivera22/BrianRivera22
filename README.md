@@ -23,9 +23,9 @@
   - [Apply filters to SQL queries](https://github.com/BrianRivera22/Apply-filters-to-SQL-queries/blob/main/README.md)
 
 
-<h3>📺 YouTube Videos</h3>
+<h2>📺 YouTube Videos</h2>
 
-<u>[My Journey: Starting over in Tech](https://youtu.be/UpeNVfCLA8k?si=k9kt1j8CCEZGIrtx)</u>
+- <u>[My Journey: Starting over in Tech](https://youtu.be/UpeNVfCLA8k?si=k9kt1j8CCEZGIrtx)</u>
   
 
 
