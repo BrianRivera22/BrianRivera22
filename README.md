@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brian! <br/><a href="https://www.linkedin.com/in/brianrivera22/">Tech Support Professional</a>, <a href="https://github.com/brianrivera22">Cybersecurity Enthusiast</a>
+<h1>Hi, I'm Brian! <br/><a href="https://www.linkedin.com/in/brianrivera22/">Technical Support Professional</a>
 
 <h2>👨‍💻 IT Projects:</h2>
 
