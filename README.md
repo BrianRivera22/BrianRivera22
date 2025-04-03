@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/BrianRivera22/post_install_config/blob/main/README.md)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/BrianRivera22/ticket_lifecycle/blob/main/README.md)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/BrianRivera22/configure_AD/blob/main/README.md)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/BrianRivera22/azure_network_protocols/blob/main/README.md)
 
 - <b>Laptop Repair </b>
