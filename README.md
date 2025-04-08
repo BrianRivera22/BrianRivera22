@@ -9,7 +9,6 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/BrianRivera22/configure_AD/blob/main/README.md)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/BrianRivera22/azure_network_protocols/blob/main/README.md)
-
 - <b>Laptop Repair </b>
   - [Changing an old MacBook Battery](https://github.com/BrianRivera22/changing-macbook-pro-battery/blob/main/README.md)
  
