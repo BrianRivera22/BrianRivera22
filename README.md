@@ -26,6 +26,7 @@
 <h2>📺 YouTube Videos</h2>
 
 - <u>[My Journey: Starting over in Tech](https://youtu.be/UpeNVfCLA8k?si=k9kt1j8CCEZGIrtx)</u>
+- <u>[Easy Virtual Lab: Connecting Peripheral Devices](https://www.youtube.com/watch?v=MqQiZ7NIiC4&t=61s)</u>
   
 
 
