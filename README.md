@@ -2,13 +2,15 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/BrianRivera22/configure_AD/blob/main/README.md)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/BrianRivera22/azure_network_protocols/blob/main/README.md)
+- <b>Active Directory</b>
+  - [Creating Group Policy Objects](https://github.com/BrianRivera22/configure_AD/blob/main/README.md)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/BrianRivera22/osticket_prereqs/blob/main/README.md)
   - [osTicket: Post-Installation Configuration](https://github.com/BrianRivera22/post_install_config/blob/main/README.md)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/BrianRivera22/ticket_lifecycle/blob/main/README.md)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/BrianRivera22/configure_AD/blob/main/README.md)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/BrianRivera22/azure_network_protocols/blob/main/README.md)
 - <b>Laptop Repair </b>
   - [Changing an old MacBook Battery](https://github.com/BrianRivera22/changing-macbook-pro-battery/blob/main/README.md)
  
