@@ -8,6 +8,7 @@
 - <b>Active Directory</b>
   - [Creating Group Policy Objects](https://github.com/BrianRivera22/AD_GPO/blob/main/README.md)
   - [Building Domain Name System Intuition](https://github.com/BrianRivera22/DNS_Intuition/blob/main/README.md)
+  - [Understanding Network File Shares & User Permissions](https://github.com/BrianRivera22/network_file_shares/blob/main/README.md)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/BrianRivera22/osticket_prereqs/blob/main/README.md)
   - [osTicket: Post-Installation Configuration](https://github.com/BrianRivera22/post_install_config/blob/main/README.md)
