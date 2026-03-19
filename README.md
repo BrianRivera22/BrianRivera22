@@ -28,6 +28,7 @@
 
 <h2>📺 YouTube Videos</h2>
 
+- <u>[The Bearded IT Dad Podcast](https://youtu.be/F8d16xikZHU?si=En77Jc3GoTgWtbQS))</u>
 - <u>[My Journey: Starting over in Tech](https://youtu.be/UpeNVfCLA8k?si=k9kt1j8CCEZGIrtx)</u>
 - <u>[Easy Virtual Lab: Connecting Peripheral Devices](https://www.youtube.com/watch?v=MqQiZ7NIiC4&t=61s)</u>
   
