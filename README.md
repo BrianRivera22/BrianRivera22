@@ -40,8 +40,8 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [linkedin]: https://linkedin.com/in/brianrivera22
-[youtube]: https://www.youtube.com/@cyberwithbrian
-[instagram]: https://www.instagram.com/cyberwithbrian
+[youtube]: https://www.youtube.com/@brianscottech
+[instagram]: https://www.instagram.com/brianscottech
 
 <!--
 **BrianRivera22/BrianRivera22** is a ✨ _special_ ✨ repository: its `README.md` (this file) appears on your Github profile!
